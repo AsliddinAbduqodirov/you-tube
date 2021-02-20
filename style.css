@@ -37,3 +37,66 @@ input:focus {
     margin: 10px;
 }
 
+.sit {
+    font-size: 12px;
+}
+
+.up {
+    float:left;
+   
+   
+
+}
+
+
+
+.sun {
+    float: right;
+
+    
+}
+
+.moon {
+    clear: both;
+}
+
+main {
+    width: 750px;
+}
+
+.video iframe {
+    width: 750px;
+}
+
+.next img {
+
+    border-radius: 50%;
+}
+
+.next {
+    width: 220px;
+}
+
+.dusi h4, 
+.dusi p {
+    margin:0;
+}
+
+.group {
+    margin-left: 10px;
+    margin-top:5px;
+    /* padding-bottom: 15px; */
+    float: right;
+}
+
+* {
+    border: 1px solid green;
+}
+
+.clim {
+    
+    float: left;
+}
+
+
+
