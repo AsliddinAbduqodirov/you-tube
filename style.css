@@ -30,7 +30,8 @@ input:focus {
 }
 
 .right {
-    margin-left: 320px;
+    margin-left: 31
+    0px;
 }
 
 .right i {
@@ -61,20 +62,24 @@ input:focus {
 }
 
 main {
+    float: left;
     width: 750px;
 }
+
+aside {
+    width: 570px;
+    float: right;
+    /* height: 550px; */
+}
+
+
 
 .video iframe {
     width: 750px;
 }
 
 .next img {
-
     border-radius: 50%;
-}
-
-.next {
-    width: 220px;
 }
 
 .dusi h4, 
@@ -93,10 +98,151 @@ main {
     border: 1px solid green;
 }
 
-.clim {
+.deck {
     
     float: left;
+    width: 220px;
 }
+
+.clim {
+    float: left;
+}
+
+
+
+.kappa {
+    float: right;
+    /* width: 500px; */
+}
+
+.date {
+    clear: both;
+}
+
+
+
+.gtl {
+    background-color: red;
+    color: white;
+    /* margin-left: 600px; */
+    padding: 5px 15px;
+    font-size: 19px;
+    border: none;
+  
+}
+w
+.for {
+    margin-left: 100px;
+}
+
+.den {
+    margin-left: 100px;
+    color: #606060;
+    font-weight: 500;
+}
+
+.world, .de {
+    display: inline-block;
+}
+
+.red {
+    border-radius: 50px;
+}
+
+.world {
+    display: inline-block;
+   
+}
+
+.world img {
+    border-radius: 50%;
+}
+
+.de h5, p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.ras  {
+    width: 200px;
+    /* height: 200px; */
+    float: left;
+}
+
+.ras img{
+    width: 100%;
+
+}
+
+.cod {
+    float: right;
+    width: 360px;
+}
+
+.cod p {
+    color: grey;
+}
+
+.dfg {
+    clear: both;
+}
+
+.ras1 {
+    width: 200px;
+    /* height: 200px; */
+    float: left;
+}
+
+.ras1 img {
+    width: 100%;
+}
+
+.cook {
+    float: right;
+    width: 360px;
+} 
+
+.cook {
+    color: grey;
+}
+
+.ras1 {
+    width: 200px;
+    /* height: 200px; */
+    float: left;
+}
+
+.ras2 {
+    width: 200px;
+    float: left;
+}
+
+.ras2 img {
+    width: 100%;
+}
+
+.cool {
+    float: right;
+    width: 360px;
+   
+} 
+
+.cool p {
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
